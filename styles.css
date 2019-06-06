@@ -1,0 +1,55 @@
+body {
+  background-color: #EED2E4;
+  font-family: 'Nunito', sans-serif;
+  /* font-family: 'Lobster', cursive; */
+}
+
+#mainNavigation {
+  font-weight: 100;
+  font-size: 1.5rem;
+}
+
+#mainNavigation .navbar-brand {
+  color: #AE855C;
+  font-size: 1.5rem;
+}
+
+#mainNavigation .nav-link {
+  color: #D8BF98;
+}
+
+#mainNavigation .nav-link:hover {
+  color: #AE855C;
+}
+
+.text-section h2 {
+  color: #F9F6D8;
+  font-weight: 100;
+  font-size: 2.5rem;
+}
+
+.text-section p {
+  color: #AE855C;
+  font-weight: 100;
+  font-size: 1.125rem;
+  line-height: 2;
+
+}
+
+#h1_heading h1 {
+  color: #F9F6D8;
+  font-weight: 100;
+  font-size: 3.5rem;
+}
+
+#icon_love {
+  height: 75px;
+  width: 75px;
+}
+
+@media (max-width: 1200px) {
+  #h1_heading h1 {
+    font-weight: 100;
+    font-size: 3rem;
+  }
+}
