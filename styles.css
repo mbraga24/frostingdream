@@ -28,6 +28,12 @@ body {
   font-size: 2.5rem;
 }
 
+#h1_heading h1 {
+  color: #F9F6D8;
+  font-weight: 100;
+  font-size: 3.5rem;
+}
+
 .text-section p {
   color: #AE855C;
   font-weight: 100;
@@ -36,10 +42,8 @@ body {
 
 }
 
-#h1_heading h1 {
-  color: #F9F6D8;
-  font-weight: 100;
-  font-size: 3.5rem;
+.section-info {
+  margin-top: 100px;
 }
 
 #icon_love {
